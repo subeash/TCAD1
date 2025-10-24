@@ -1,11 +1,18 @@
-### Subject Matter Experts
-# Subject Matter Experts
-| SNo. | Name | Email | Institute | Profile |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | **Prof. Alok Kanti Deb** | **alokkanti@ee.iitkgp.ac.in** | **Indian Institute of Technology Kharagpur** | ***[Profile](http://www.iitkgp.ac.in/department/EE/faculty/ee-alokkanti)*** |
 
-## Developer and Integration Engineer
-| SrNo | Name | Designation | Department | Institute |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | **Piyali Chattopadhyay** | Research Engineer | Department of Electrical Engineering | IIT Kharagpur | 
-| 2 | **Aditya Kameswara Rao Nandula** | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur |
+
+#### Subject Matter Experts
+<b>Name  | <b> **Prof. C. K. Maiti**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **ckm@ece.iitkgp.ernet.in**
+<b> Department |  **Electronics & Electrical Communication Engineering**
+<b>Webpage| <b> https://www.iitkgp.ac.in/search-result/Chinmay%20Kumar%20Maiti
+
+
+
+### Contributors List
+
+SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
+:--|:--|:--|:--|:--|:--|
+1 | **Ananda Maiti** |Developer | Project intern | Department of Electronics & ECE | IIT Kharagpur |
+2 | **Subhasis Mahata** |AWS Integration Engineer | Senior Project Scientist | Department of Mechanical Engineering | IIT Kharagpur |   

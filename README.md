@@ -4,34 +4,28 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Electrical Engineering 
+<b>Discipline | <b> Electronic Engineering 
 :--|:--|
-<b> Lab | <b> **Control and Instrumentation Lab**
-<b> Experiment|     <b> **Study of Rectilinear Motion and Experiment 1**
+<b> Lab | <b> **Microelectronics and VLSI Engineering Laboratory**
+<b> Experiment|     <b> **PMOS Capacitor Band Diagram**
 
 
 ### About the Experiment 
-**System description**
 
-Rectilinear motion is another name for straight-line motion. This type of motion describes the movement of a particle or a body. The experimental control system in practical laboratory is comprised of the electromechanical plant which consists of the spring/mass mechanism, its actuator, sensors and a subsystem 
-i.e. an operating program or software which runs on a PC . This experiment use (encoder) counts as the system units of position, where the counts correspond to the encoder pulses and controller-internal register values.
-								
-								
-<div alig="center">
-<img class="img-fluid"  src="./images/plant.png" alt="">
+<!--Fill a brief description of this experiment here-->
 
-<b>Figure 1: Schematic representation of the Rectilinear Motion setup in Control Systems </b>
-</div>
-
-<b>Name of Developer | <b> **Prof. Alok Kanti Deb**
+<b>Name ofSubject-matter expert | <b> **Prof. C. K. Maiti**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
-<b> Email id|     <b>  **alokkanti@ee.iitkgp.ac.in**
-<b> Department |  **Department of Electrical Engineering**
-<b>Webpage| <b> http://www.iitkgp.ac.in/department/EE/faculty/ee-alokkanti
+<b> Email id|     <b>  **ckm@ece.iitkgp.ernet.in**
+<b> Department |  **Electronics & Electrical Communication Engineering**
+<b>Webpage| <b> https://www.iitkgp.ac.in/search-result/Chinmay%20Kumar%20Maiti
+
+
 
 ### Contributors List
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Piyali Chattopadhyay** | Developer & Integration | Project Scientist | Department of Electrical Engineering | IIT Kharagpur | 
+1 | **Ananda Maiti** |Developer | Project intern | Department of Electronics & ECE | IIT Kharagpur |
+2 | **Subhasis Mahata** |AWS Integration Engineer | Senior Project Scientist | Department of Mechanical Engineering | IIT Kharagpur | 

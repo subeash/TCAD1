@@ -1,135 +1,115 @@
-{
-  "version": 2.0,
+  {
+	  "version": 2.0,
   "questions": [
     {
-      "question": "When acceleration is _______, velocity of a particle is constant.",
+      "question": "1. What does the term 'Gummel plot' specifically refer to in the context of BJT characterization?",
       "answers": {
-        "a": "zero",
-        "b": "maximum",
-        "c": "None of the above",
-        "d": "All of the above"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "In a closed loop control system with positive value of feedback gain, the overall gain of the system will___",
-      "answers": {
-        "a": " decrease",
-        "b": "increase",
-        "c": "be unaffected",
-        "d": "None of these"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "A simple Mass Spring Damper System having natural frequency &omega;<sub>n</sub>. If the spring stiffness is halved and mass is doubled, what will be its natural frequency?",
-      "answers": {
-        "a": "2&omega;<sub>n</sub>",
-        "b": "&omega;<sub>n</sub>/2",
-        "c": "4&omega;<sub>n</sub>",
-        "d": "8&omega;<sub>n</sub>"
+        "a": "A plot of base-emitter voltage (V_BE) versus collector current (I_C)",
+        "b": "A plot of base current (I_B) versus base-emitter voltage (V_BE)",
+        "c": "A plot of collector current (I_C) versus base current (I_B)",
+        "d": "A plot of base-emitter voltage (V_BE) versus base current (I_B)"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "A block whose mass is 4kg is fastened with a spring constant k=64N/m. The block is pulled from its equilibrium position on a frictionless surface and released. The period of the resulting motion in seconds is___",
+      "question": "2. In a Gummel plot, what does the slope of the base current (I_B) versus base-emitter voltage (V_BE) plot represent?",
       "answers": {
-        "a": "&#960;/2",
-        "b": "2&#960;",
-        "c": "&#960;/4",
-        "d": "&#960;"
+        "a": "Saturation current (I_S)",
+        "b": "Current gain (\u03b2)",
+        "c": "Emitter efficiency",
+        "d": "Thermal voltage (V_T)"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "The natural frequency of a mass spring damper system is w<sub>n</sub>. The natural frequency of this system in the moon will be__",
+      "question": "3. The Gummel plot is commonly used to determine which of the following parameters of a BJT?",
       "answers": {
-        "a": "0.408&omega;<sub>n</sub>",
-        "b": "0.204&omega;<sub>n</sub>",
-        "c": "1.167&omega;<sub>n</sub>",
-        "d": "&omega;<sub>n</sub>"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-	{
-      "question": "The time period of a mass spring damper system depends on,",
-      "answers": {
-        "a": "Mass of the block",
-        "b": "Spring Constant",
-        "c": "Both a and b",
-        "d": "None of the above"
+        "a": "Collector-emitter voltage (V_CE)",
+        "b": "Base-emitter voltage (V_BE)",
+        "c": "Saturation current (I_S)",
+        "d": "Thermal resistance (R_th)"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    },	
-	
-	{
-      "question": "The time period of a mass, suspended from a spring is 'T'. If the spring is cut into 4 equal parts and same mass is suspended from one of the parts, then the new time period will be,",
-      "answers": {
-        "a": "T",
-        "b": "2T",
-        "c": "T/4",
-        "d": "T/2"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
     },
-	
-	{
-      "question": "When a system is vibrating in a normal mode,",
+    {
+      "question": "4. What is the primary purpose of characterizing a BJT using the Gummel plot method?",
       "answers": {
-        "a": "All masses move with the same Amplitude and same Frequency",
-        "b": "All masses move with the same Amplitude and different Frequency",
-        "c": "All masses move with different Frequency but of same phase",
-        "d": "All masses move with the same frequency and maintain a fixed phase relation"
+        "a": "To analyze power dissipation",
+        "b": "To optimize frequency response",
+        "c": "To extract key parameters like current gain and saturation current",
+        "d": "To measure voltage drop across the collector-emitter junction"
       },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
     },
-	
-	
-	{
-      "question": "A mass of 0.5 kg is suspended in a vertical plane by a spring having a stiffness coefficient of 300 N/m. The mass is displaced vertically downward from its static equilibrium position through a distance of 0.01m . Find the natural frequency of the system.",
+    {
+      "question": "5. What does the ideality factor in a BJT refer to?",
       "answers": {
-        "a": "24.5Hz",
-        "b": "31.6Hz",
-        "c": "5.1Hz ",
-        "d": "3.9Hz"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-	
-	{
-      "question": "The natural frequency of a single degree of freedom system decreases when the mass",
-      "answers": {
-        "a": "Increases",
-        "b": "Decreases",
-		"c": "Does not have any effect",
-        "d": "None of the above"
-		
+        "a": "A measure of how closely the BJT follows the ideal exponential relationship",
+        "b": "A measure of collector current efficiency",
+        "c": "A measure of base current leakage",
+        "d": "A measure of temperature dependence"
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
-	{
-      "question": "For an under damped system, the damping ratio is",
+    {
+      "question": "6. How does the Gummel plot help in analyzing BJT operation in different regions?",
       "answers": {
-        "a": "Less than one",
-        "b": "Greater than one",
-		"c": "Equal to one",
-        "d": "None of the above"
-		
+        "a": "By identifying breakdown voltage",
+        "b": "By showing linear and saturation regions clearly",
+        "c": "By measuring thermal resistance",
+        "d": "By calculating power gain"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "7. What does the slope of the collector current (I_C) versus base-emitter voltage (V_BE) plot determine?",
+      "answers": {
+        "a": "Emitter efficiency",
+        "b": "Saturation current (I_S)",
+        "c": "Current gain (\u03b2)",
+        "d": "Thermal voltage (V_T)"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "8. In a Gummel plot, what does the term 'early effect' refer to?",
+      "answers": {
+        "a": "Voltage dependence of collector current",
+        "b": "Temperature dependence of base current",
+        "c": "Voltage dependence of base current",
+        "d": "Temperature dependence of collector current"
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": "advanced"
+    },
+    {
+      "question": "9. How can the Gummel plot aid in optimizing BJT circuit design?",
+      "answers": {
+        "a": "By minimizing thermal resistance",
+        "b": "By maximizing current gain",
+        "c": "By ensuring proper biasing and performance",
+        "d": "By increasing breakdown voltage"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "10. What region of operation is characterized by a Gummel plot where collector current (I_C) remains relatively constant with changes in base-emitter voltage (V_BE)?",
+      "answers": {
+        "a": "Cut-off",
+        "b": "Active",
+        "c": "Saturation",
+        "d": "Breakdown"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
     }
-	
   ]
 }
-
